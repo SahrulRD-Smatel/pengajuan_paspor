@@ -19,6 +19,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-8-blue?style=for-the-badge&logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-8-orange?style=for-the-badge&logo=mysql" alt="MySQL">
+</p>
+
 ---
 
 ## 📖 Tentang Proyek
