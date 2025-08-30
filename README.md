@@ -29,6 +29,7 @@
 
 ## 📖 Tentang Proyek
 **Pengajuan Paspor** adalah aplikasi berbasis Laravel untuk mempermudah proses pendaftaran dan pengelolaan pengajuan paspor secara digital.  
+
 Fitur utama:
 - Manajemen akun pengguna (admin & pemohon)  
 - Formulir pengajuan paspor  
@@ -37,14 +38,14 @@ Fitur utama:
 
 ---
 
-### Premium Partners - 
-**[Vehikl](https://vehikl.com)** - 
-**[Tighten Co.](https://tighten.co)** - 
-**[Kirschbaum Development Group](https://kirschbaumdevelopment.com)** - 
-**[64 Robots](https://64robots.com)** - 
-**[Curotec](https://www.curotec.com/services/technologies/laravel)** - 
-**[DevSquad](https://devsquad.com/hire-laravel-developers)** - 
-**[Redberry](https://redberry.international/laravel-development)** - 
+### 🏆 Premium Partners
+**[Vehikl](https://vehikl.com)** • 
+**[Tighten Co.](https://tighten.co)** • 
+**[Kirschbaum Development Group](https://kirschbaumdevelopment.com)** • 
+**[64 Robots](https://64robots.com)** • 
+**[Curotec](https://www.curotec.com/services/technologies/laravel)** • 
+**[DevSquad](https://devsquad.com/hire-laravel-developers)** • 
+**[Redberry](https://redberry.international/laravel-development)** • 
 **[Active Logic](https://activelogic.com)**
 
 ---
@@ -56,25 +57,3 @@ Fitur utama:
 - [Bootstrap 5](https://getbootstrap.com/)  
 
 ---
-
-## ⚙️ Instalasi
-
-1. **Clone repositori**
-   ```bash
-   git clone https://github.com/SahrulRD-Smatel/pengajuan_paspor.git
-   cd pengajuan_paspor
-2. **Install dependency**
-   composer install
-   npm install && npm run dev
-3. **Konfigurasi file .env**
-   cp .env.example .env
-   php artisan key:generate
-4. **Migrasi database & seeding**
-   php artisan migrate:fresh --seed
-5. **Running server**
-   php artisan serve
-
----
-
-## License 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
