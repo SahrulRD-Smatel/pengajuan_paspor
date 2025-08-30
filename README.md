@@ -37,6 +37,18 @@ Fitur utama:
 
 ---
 
+### Premium Partners - 
+**[Vehikl](https://vehikl.com)** - 
+**[Tighten Co.](https://tighten.co)** - 
+**[Kirschbaum Development Group](https://kirschbaumdevelopment.com)** - 
+**[64 Robots](https://64robots.com)** - 
+**[Curotec](https://www.curotec.com/services/technologies/laravel)** - 
+**[DevSquad](https://devsquad.com/hire-laravel-developers)** - 
+**[Redberry](https://redberry.international/laravel-development)** - 
+**[Active Logic](https://activelogic.com)**
+
+---
+
 ## 🚀 Teknologi yang Digunakan
 - [Laravel 10](https://laravel.com/)  
 - [PHP 8+](https://www.php.net/)  
@@ -51,3 +63,22 @@ Fitur utama:
    ```bash
    git clone https://github.com/SahrulRD-Smatel/pengajuan_paspor.git
    cd pengajuan_paspor
+
+2. **Install dependency**
+   composer install
+   npm install && npm run dev
+
+3. **Konfigurasi file .env**
+   cp .env.example .env
+   php artisan key:generate
+
+4. **Migrasi database & seeding**
+   php artisan migrate:fresh --seed
+
+5. **Running server**
+   php artisan serve
+
+---
+
+## License 
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
