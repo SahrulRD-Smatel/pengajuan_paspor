@@ -63,18 +63,14 @@ Fitur utama:
    ```bash
    git clone https://github.com/SahrulRD-Smatel/pengajuan_paspor.git
    cd pengajuan_paspor
-
 2. **Install dependency**
    composer install
    npm install && npm run dev
-
 3. **Konfigurasi file .env**
    cp .env.example .env
    php artisan key:generate
-
 4. **Migrasi database & seeding**
    php artisan migrate:fresh --seed
-
 5. **Running server**
    php artisan serve
 
